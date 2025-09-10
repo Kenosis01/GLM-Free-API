@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# GLM-Free-API (local OpenAI-compatible wrapper)
+
+# Free-API (local OpenAI-compatible wrapper)
 
 **It is a reverse engineered API for Deepinfra models. Use it at your own risk and prevent abuse**
 
@@ -31,15 +31,3 @@ pip install -r requirements.txt
 ```powershell
 uvicorn main:app --reload
 ```
-4.Open http://127.0.0.1:8000/docs in your browser to see the Swagger UI.
-=======
-**This is a reverse engineered api service of GLM Models** 
-Please use it carefully without abusing
-
-# Step By Step Usage Guide
-
-1. Clone the repo
-2. install the dependencies
-3. run main.py
-4. visit localhost:8000/docs for swagger ui
->>>>>>> ec26ad70ee617306826412e49df135789df89cab
